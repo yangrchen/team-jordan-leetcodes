@@ -3,8 +3,8 @@ Repository of leetcode solutions for the 110/211 UTAs
 
 # Writing a Solution
 
-**Recommended file name** when pushing a solution to the repo: **[Q#]-[name]-[file_extension]** (e.g. **328-odd-even-linked-list.py**)
-**Recommended commit name** when pushing a solution to the repo: **[Q#]-[name]_[language]** (e.g. **328-odd-even-linked-list_python**)
++ **Recommended file name** when pushing a solution to the repo: **[Q#]-[name]-[file_extension]** (e.g. **328-odd-even-linked-list.py**)
++ **Recommended commit name** when pushing a solution to the repo: **[Q#]-[name]_[language]** (e.g. **328-odd-even-linked-list_python**)
 
 You can add any problem that you solve on your own or with a group! Just make sure to add comments detailing how you approached the problem at the beginning/inside of the code to help others understand it. A sample solution in Python might look like:
 
