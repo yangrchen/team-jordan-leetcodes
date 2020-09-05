@@ -8,7 +8,7 @@ Repository of leetcode solutions for the 110/211 UTAs
 
 You can add any problem that you solve on your own or with a group! Just make sure to add comments detailing how you approached the problem at the beginning/inside of the code to help others understand it. A sample solution in Python might look like:
 
-```
+```py
 # Definition for singly-linked list.
 # class ListNode:
 #   def __init__(self, val=0, next=None):
